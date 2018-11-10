@@ -868,7 +868,7 @@ public class Pricecheck extends AppCompatActivity implements AdapterView.OnItemS
                         switch (state) {
                             case "EDSA":
                             case "Libertad":
-                                t1.setText("30");
+                                t1.setText("Function in progress");
                                 t2.setText("Stored Value Ticket Price");
                         }
                 }
